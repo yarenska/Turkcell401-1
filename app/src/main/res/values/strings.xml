@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Turkcell401</string>
+    <string name="healthy_hint">Yeterli, dengeli ve sağlıklı beslenme bilinci edinmeyi hedef alın.
+    Günlük beslenme ihtiyaçlarınızı mutlaka tamamlayın. Eksik veya fazla beslenmekten kaçının.
+    Az ve sık beslenmeye dikkat edin.
+    Birbirini takip eden öğünler arasındaki zaman aralığı 2-3 saat olmalıdır. Gün içinde 4 saatten fazla aç kalmamaya özen gösterin.
+    Vücudumuzdaki kan dolaşımı akışkanlığını sağlamak ve günlük harcadığımız enerjiyi yükseltmek için, günde en az yarım saat olmak şartıyla spor yapmayı alışkanlık haline getirin.
+    </string>
+</resources>
