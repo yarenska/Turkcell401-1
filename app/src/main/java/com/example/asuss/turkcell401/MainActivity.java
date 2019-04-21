@@ -62,9 +62,3 @@ public class MainActivity extends AppCompatActivity {
     };
 
 }
-
-//İlk önce breakpoint koyuyoruz
-//Sonra Debug App diyoruz.
-//F8 ile ilerliyoruz.
-//F9 ile debug moddan çıkıyoruz.(olduğumuz breakpointli kısımdan)
-//F10 ile tsmamen çıkıyoruz.
